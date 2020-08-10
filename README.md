@@ -4,3 +4,4 @@
 2. Binomial Classifier
 3. Logistic Regression
 4. KNN Classifier
+5. MLP Classifier
